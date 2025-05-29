@@ -59,4 +59,4 @@ node index.js
 🌟 Key Takeaway
 This project is built to simplify and power up your Twitter posting workflow with real-time feedback and smarter AI-generated tweets — fully modular, secure, and ready to deploy! 🚀✨
 
-✨ Happy coding 
+
